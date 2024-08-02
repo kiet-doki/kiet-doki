@@ -3,7 +3,7 @@
 I'm Kiet, a Data Science Student by day ☼ and a Youth Soccer Coach by night ☾
 
 As a data science enthusiast, I thrive on transforming data into actionable insights.
-Check out my work to see how I apply data analytics and data science to solve real-world problems.
+Check out my work to see how I apply data analytics and data science to solve real-world problems!
 
 <!--
 **kiet-doki/kiet-doki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
