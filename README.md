@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Kiet, a Data Science Student by day ☼ and a U10 Soccer Coach by night ☾
+I'm Kiet, a Data Science Student by day ☼ and a Youth Soccer Coach by night ☾
 
 As a data science enthusiast, I thrive on transforming data into actionable insights.
 Check out my work to see how I apply data analytics and data science to solve real-world problems.
